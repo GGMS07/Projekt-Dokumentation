@@ -4,7 +4,7 @@
 
 1. **Repository klonen:**
    in bash diesen Befehl eingeben:
-   git clone https://github.com/dein-username/fussball-dokumentation.git
+   git clone https://github.com/(GitHub-Benutzername)/fussball-dokumentation.git
    cd fussball-dokumentation
    
 
