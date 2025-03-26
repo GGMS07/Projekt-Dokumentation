@@ -15,11 +15,11 @@
 3. **GitHub Pages aktivieren:**
    - Gehe zu den **Repository-Einstellungen** auf GitHub.
    - Scrolle zu **GitHub Pages**.
-   - Waehle den Branch main oder den Ordner docs als Quelle.
-   - Optional: Waehle ein Theme, z. B. "Cayman".
+   - Wähle den Branch main oder den Ordner docs als Quelle.
+   - Optional: Wähle ein Theme, z. B. "Cayman".
 
 4. **Lokale Vorschau anzeigen:**
-   Falls du MkDocs oder ein aehnliches Tool verwendest, kannst du eine lokale Vorschau starten:
+   Falls du MkDocs oder ein ähnliches Tool verwendest, kannst du eine lokale Vorschau starten:
    im bash
    mkdocs serve eingeben
 
